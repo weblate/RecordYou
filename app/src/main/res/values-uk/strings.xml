@@ -44,7 +44,7 @@
     <string name="auto">Авто</string>
     <string name="system">Як у системі</string>
     <string name="dark">Темна</string>
-    <string name="default_audio">За замовчуванням</string>
+    <string name="default_audio">Типово</string>
     <string name="camcorder">Відеокамера</string>
     <string name="unprocessed">Не оброблено</string>
     <string name="mono">Моно</string>
@@ -61,7 +61,7 @@
     <string name="screen_recorder_annotation">Анотація до запису екрану</string>
     <string name="screen_recorder_annotation_desc">Показувати інструмент анотацій під час запису екрана</string>
     <string name="amoled_dark">Чорна</string>
-    <string name="default_sort">За замовчуванням</string>
+    <string name="default_sort">Типово</string>
     <string name="select_trim_range">Виберіть діапазон обрізки</string>
     <string name="trimming">Обрізання…</string>
     <string name="trim">Обрізати</string>
